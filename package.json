@@ -1,6 +1,6 @@
 {
   "name": "grunt-commitplease",
-  "version": "0.0.1-pre",
+  "version": "0.0.1",
   "description": "Validate strings as jQuery commit messages",
   "scripts": {
     "test": "grunt test"
@@ -20,5 +20,16 @@
     "name": "Rafael Xavier",
     "url": "http://rafael.xavier.blog.br"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "commitplease": "git://github.com/rxaviers/commitplease.git#d5f4dbc",
+    "git-tools": "0.1.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-dco": "0.0.3"
+  }
 }
