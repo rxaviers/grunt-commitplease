@@ -1,0 +1,24 @@
+{
+  "name": "grunt-commitplease",
+  "version": "0.0.1-pre",
+  "description": "Validate strings as jQuery commit messages",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rxaviers/grunt-commitplease.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "jQuery",
+    "commit",
+    "message",
+    "validation"
+  ],
+  "author": {
+    "name": "Rafael Xavier",
+    "url": "http://rafael.xavier.blog.br"
+  },
+  "license": "MIT"
+}
