@@ -25,7 +25,7 @@
     "grunt": "^0.4.5"
   },
   "dependencies": {
-    "commitplease": "git://github.com/rxaviers/commitplease.git#d964863",
+    "commitplease": "git://github.com/rxaviers/commitplease.git#4b9c376",
     "git-tools": "0.1.1"
   },
   "devDependencies": {
