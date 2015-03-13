@@ -25,7 +25,7 @@
     "grunt": "^0.4.5"
   },
   "dependencies": {
-    "commitplease": "git://github.com/jzaefferer/commitplease.git#0824997",
+    "commitplease": "2.2.0",
     "git-tools": "0.1.1"
   },
   "devDependencies": {
