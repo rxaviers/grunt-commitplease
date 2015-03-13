@@ -9,7 +9,7 @@
 
 module.exports = function(grunt) {
 
-  var commitplease = require("commitplease");
+  var commitplease = require("commitplease/lib/validate");
   var Repo = require("git-tools");
 
   function gitLog(options, callback) {
