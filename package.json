@@ -25,11 +25,14 @@
     "grunt": "^0.4.5"
   },
   "dependencies": {
-    "commitplease": "git://github.com/rxaviers/commitplease.git#4b9c376",
+    "commitplease": "git://github.com/jzaefferer/commitplease.git#0824997",
     "git-tools": "0.1.1"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-dco": "0.0.3"
+  },
+  "commitplease": {
+    "nohook": true
   }
 }
