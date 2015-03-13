@@ -2,9 +2,6 @@
   "name": "grunt-commitplease",
   "version": "0.0.4",
   "description": "Validate strings as jQuery commit messages",
-  "scripts": {
-    "test": "grunt test"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/rxaviers/grunt-commitplease.git"
