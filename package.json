@@ -1,6 +1,6 @@
 {
   "name": "grunt-commitplease",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Validate strings as jQuery commit messages",
   "scripts": {
     "test": "grunt test"
