@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": ">=0.4.0"
   },
   "dependencies": {
     "commitplease": "2.2.0",
